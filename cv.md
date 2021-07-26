@@ -25,6 +25,9 @@
   <p>Второй абзац.</p>
  </body>
 </html>`
+
 6. No development experience.
+
 7.  Higher education at the IIT BSUIR Faculty of Computer Technologies. I took a course on the basics of Java development at IT academy in 2019. At the moment I am getting training in The Rolling Scopes School JS course-stage 0.
+
 8.  English level A2. I periodically practice in conversations with passengers at work.
