@@ -12,7 +12,7 @@
 * Basic knowledge of CSS
 * Basic knowledge of Java Development (Intellige Idea) 
  
-5.     `<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+5. `<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -25,4 +25,6 @@
   <p>Второй абзац.</p>
  </body>
 </html>`
-6. 
+6. No development experience.
+7.  Higher education at the IIT BSUIR Faculty of Computer Technologies. I took a course on the basics of Java development at IT academy in 2019. At the moment I am getting training in The Rolling Scopes School JS course-stage 0.
+8.  English level A2. I periodically practice in conversations with passengers at work.
